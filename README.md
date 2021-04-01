@@ -1,16 +1,15 @@
-### z l u r e s
+welcome 🔅
+=======
 
-<!--
-**zlures/zlures** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What’s on this account?
+Here is `tutorials` for popular packages! You can learn here, not just copy and paste!
 
-Here are some ideas to get you started:
+### + README.md
+That’s file, where is tutorials and information about packages. Just get a cookie with tea, and read! Lovely and easily!
+### + LICENSE.md
+This file with license in, that’s for what it’s named!
+### + EXAMPLE.md
+This file created for more information!
 
-- 🔭 I’m dumbass
-- 🌱 I’m currently learning how to poop
-- 👯 I’m looking to collaborate on my stupid brain
-- 🤔 I’m looking for help with toilet
-- 💬 Ask me about my bad
-- 📫 How to reach me: u can’t bc im on Russia
-- 😄 Pronouns: um
-- ⚡ Fun fact: im watched pornhub 
--->
+———————————
+Have fun!
